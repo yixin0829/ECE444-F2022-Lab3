@@ -4,6 +4,17 @@ This is a modified version of the previous Assignment1 template.
 
 The deploye version can be found at https://lab3-docker.herokuapp.com.
 
+## Activity 2
+![image](https://user-images.githubusercontent.com/56566212/193086588-37f3cc18-addd-4cda-b5ee-b5fc2fd9212f.png)
+
+## Activity 3
+![image](https://user-images.githubusercontent.com/56566212/193091051-74919552-1b22-4ab2-a7d0-15e1404193a5.png)
+
+## Activity 4
+![image](https://user-images.githubusercontent.com/56566212/193095751-e99edb0d-91dd-426c-b058-d5432668c255.png)
+![image](https://user-images.githubusercontent.com/56566212/193098734-b7933ea4-420b-4fbd-8e51-9759a3503493.png)
+
+
 ## Changes
 + Removed hardcodes of backend urls.
 + Removed hardcodes of database, and replace the database with dummy static data.
